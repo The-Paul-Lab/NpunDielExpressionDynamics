@@ -1,0 +1,16 @@
+﻿molecule,gene,start,end,orientation
+CP001037,Npun_F4884 : hypothetical protein,6050948,6051328,forward
+CP001037,Npun_F4885 : CHAT domain-containing protein,6051357,6052916,forward
+CP001037,Npun_F4886 : hypothetical protein,6052968,6053975,forward
+CP001037,Npun_F4887 : MoxR family ATPase,6054028,6055005,forward
+CP001037,Npun_F4888 : VWA containing CoxE family protein,6055002,6056096,forward
+CP001037,Npun_F4889 : formylglycine-generating enzyme family protein,6056093,6058039,forward
+CP001037,Npun_F4890 : formylglycine-generating enzyme family protein,6058192,6059031,forward
+CP001037,Npun_F4891 : diversity-generating retroelement protein Avd,6059141,6059485,forward
+CP001037,Npun_F4892 : RNA-directed DNA polymerase,6059506,6060564,forward
+CP001037,DGR_TR,6060653,6060721,forward
+CP001037,Npun_F4893 : helix-turn-helix transcriptional regulator,6061052,6061378,forward
+CP001037,Npun_F4894 : hypothetical protein,6061448,6061702,forward
+CP001037,Npun_F4895 : hypothetical protein,6061905,6062252,forward
+CP001037,Npun_F4896 : DUF3854 domain-containing protein,6062475,6064622,forward
+CP001037,Npun_F4897 : hsdR : type I restriction-modification system endonuclease,6065083,6068400,forward
