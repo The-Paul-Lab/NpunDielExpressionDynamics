@@ -1,0 +1,37 @@
+chrom	start	end	name	strand	gieStain
+kary	500	1294	Npun_F1089	+	gpos75
+kary	1485	1715	Npun_F1090	+	gpos75
+kary	1702	2061	Npun_F1091	+	acen
+kary	2393	3592	Npun_R1092	-	acen
+kary	3666	4694	Npun_R1093	-	acen
+kary	4772	6970	Npun_R1094	-	acen
+kary	7070	7483	Npun_R1095	-	acen
+kary	7771	8097	Npun_F1096	+	gpos75
+kary	8322	8819	Npun_R1097	-	acen
+kary	8922	10655	Npun_R1098	-	acen
+kary	10736	11293	Npun_R1099	-	acen
+kary	11332	14934	Npun_R1100	-	acen
+kary	14958	15482	Npun_R1101	-	acen
+kary	15482	15721	Npun_R1102	-	acen
+kary	15913	18192	Npun_F1103	+	gpos75
+kary	18339	18674	Npun_R1104	-	gpos75
+kary	18662	19078	Npun_R1105	-	gpos75
+kary	19284	20696	Npun_F1106	+	gpos75
+kary	20911	21555	Npun_R1107	-	gpos75
+kary	21527	23671	Npun_R1108	-	gpos75
+kary	23715	24395	Npun_R1109	-	gpos75
+kary	24450	25571	Npun_R1110	-	gpos75
+kary	26069	26908	Npun_F1111	+	acen
+kary	26939	28600	Npun_F1112	+	acen
+kary	28617	28721	cSome 1331924 - predicted RNA	*	acen
+kary	28738	29193	Npun_F1113	+	acen
+kary	29194	29235	cSome 1332397 - predicted RNA	*	acen
+kary	29298	29855	Npun_F1114	+	acen
+kary	29867	30214	Npun_F1115	+	acen
+kary	30286	30440	cSome 1333489 - predicted RNA	*	acen
+kary	30491	30874	Npun_F1116	+	acen
+kary	31017	33011	Npun_F1117	+	acen
+kary	33434	35614	Npun_F1118	+	acen
+kary	35925	36049	cSome 1339101 - predicted RNA	*	gpos75
+kary	36315	36533	Npun_F1119	+	gpos75
+kary	36906	37634	Npun_F1120	+	gpos75
